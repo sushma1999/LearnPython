@@ -1,0 +1,5 @@
+print("What is you name ?", end =' ')
+name = input()
+print("You Age in numbers?",end =' ')
+age = int(input())
+print(f"Hey {name} ! \nYou are {age} now.")
